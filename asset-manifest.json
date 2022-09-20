@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fordeployment/static/css/main.073c9b0a.css",
+    "main.js": "/fordeployment/static/js/main.80bb1de9.js",
+    "static/js/787.bc66d748.chunk.js": "/fordeployment/static/js/787.bc66d748.chunk.js",
+    "index.html": "/fordeployment/index.html",
+    "main.073c9b0a.css.map": "/fordeployment/static/css/main.073c9b0a.css.map",
+    "main.80bb1de9.js.map": "/fordeployment/static/js/main.80bb1de9.js.map",
+    "787.bc66d748.chunk.js.map": "/fordeployment/static/js/787.bc66d748.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.80bb1de9.js"
+  ]
+}
